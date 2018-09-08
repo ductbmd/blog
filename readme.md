@@ -10,4 +10,4 @@ DB_PASSWORD="mật khẩu của bạn"
 khởi động laravel và đăng nhập test:
 email:nam@gmail.com
 mk:123456789
-hoặc tạo tài khoản mới để sử dụng.database
+hoặc tạo tài khoản mới để sử dụng.
